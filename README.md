@@ -1,73 +1,139 @@
-- Cristiano Ronaldo - El possible retir
+Què és un ordinador i com funciona?
 
-- Introducció
+![alt text](172b892b-3540-4f3e-a137-1a5ac42062cd.png)
 
--Cristiano Ronaldo és un dels futbolistes més coneguts de la història. Durant la seva carrera ha jugat en grans equips i ha aconseguit nombrosos títols i premis.
+Nom: Jean
+Curs: SMX
+Data: 2 d'octubre de 2026
 
--En aquest projecte parlarem sobre la seva carrera i sobre el seu possible retir del futbol professional.
+Índex
+Què és un ordinador?
+Parts principals d'un ordinador
+Els perifèrics
+El sistema operatiu
+Com funciona un ordinador?
+Seguretat informàtica
+Conclusions
+Bibliografia
+1. Què és un ordinador?
 
-- Qui és Cristiano Ronaldo?
+Un ordinador és una màquina electrònica que serveix per guardar, processar i mostrar informació.
 
--Cristiano Ronaldo dos Santos Aveiro va néixer el 5 de febrer de 1985 a Funchal, Madeira, Portugal.
+Podem utilitzar un ordinador per:
 
--Va començar la seva carrera professional a l'Sporting CP i posteriorment va passar per alguns dels clubs més importants del món.
+Escriure documents.
+Navegar per Internet.
+Mirar vídeos.
+Jugar.
+Fer treballs.
+Guardar fotografies i documents.
+Comunicar-nos amb altres persones.
+2. Parts principals d'un ordinador
+Processador (CPU)
 
-- Equips
+La CPU és una de les parts més importants de l'ordinador. S'encarrega de processar les instruccions i fer els càlculs.
 
--Al llarg de la seva carrera ha jugat a:
+Es pot comparar amb el cervell de l'ordinador.
 
-- Sporting CP
+Memòria RAM
 
-- Manchester United
+La RAM és una memòria que l'ordinador utilitza mentre està funcionant.
 
-- Real Madrid
+Per exemple, quan obrim un programa, aquest utilitza part de la memòria RAM.
 
-- Juventus
+Disc SSD o disc dur
 
-- Al-Nassr
+Serveix per guardar informació, com:
 
--També ha estat una peça fonamental de la selecció de Portugal.
+Fotografies
+Documents
+Vídeos
+Programes
+Jocs
 
-- Principals èxits
+Els discs SSD normalment són més ràpids que els discs durs tradicionals.
 
--Entre els seus èxits més importants hi ha:
+Placa base
 
-- 5 Pilotes d'Or
+La placa base és la peça principal on es connecten molts dels components de l'ordinador.
 
-- 5 Champions League
+Permet que les diferents parts de l'ordinador es comuniquin entre elles.
 
-- Eurocopa 2016
 
-- UEFA Nations League
 
--Nombrosos rècords golejadors
-Títols nacionals a Anglaterra, Espanya i 
-Itàlia
 
-- S'ha retirat?
+3. Els perifèrics
 
--No.
+Els perifèrics són dispositius que connectem a l'ordinador per introduir o obtenir informació.
 
--A data d'octubre de 2026, Cristiano Ronaldo no ha anunciat oficialment la seva retirada del futbol professional.
+Perifèric	Funció
+Teclat	Escriure
+Ratolí	Moure el cursor i seleccionar
+Monitor	Mostrar informació
+Impressora	Imprimir documents
+Auriculars	Escoltar so
+Micròfon	Gravar o transmetre veu
+Càmera web	Fer videotrucades
 
--La seva edat i la durada de la seva carrera fan que el seu possible retir sigui un tema d'interès per a molts aficionats.
 
--La decisió final dependrà del mateix Cristiano Ronaldo.
 
-- Cristiano Ronaldo i Portugal
 
--Cristiano Ronaldo ha representat Portugal durant molts anys.
+4. El sistema operatiu
 
--Amb la selecció ha aconseguit títols importants i s'ha convertit en una de les figures més importants de la història del futbol portuguès.
+El sistema operatiu és el programa principal que permet utilitzar l'ordinador.
 
--El seu possible retir de la selecció i del futbol professional marcarà el final d'una de les carreres més destacades del futbol modern.
+Alguns sistemes operatius coneguts són:
 
-- Conclusió
+Windows
+macOS
+Linux
+ChromeOS
 
--Cristiano Ronaldo ha tingut una carrera plena d'èxits, rècords i moments històrics.
+El sistema operatiu permet obrir programes, gestionar fitxers, connectar dispositius i controlar diferents parts de l'ordinador.
 
--Tot i que encara no hi ha cap anunci oficial de retirada, la seva carrera es troba en una etapa avançada i el món del futbol estarà atent a la seva decisió.
 
--Aquest projecte s'actualitzarà quan hi hagi informació oficial sobre la seva retirada.
 
-![cr7](/img/75452fb6-06c6-4688-81e6-55e6b082f6e5.png)
+
+5. Com funciona un ordinador?
+
+De manera senzilla, podem explicar el funcionament d'un ordinador en tres passos:
+
+Entrada → Processament → Sortida
+
+Per exemple, quan escrivim una paraula:
+
+Teclat → CPU → Pantalla
+
+Primer escrivim amb el teclat. Després, l'ordinador processa la informació i finalment mostra la paraula a la pantalla.
+
+6. Seguretat informàtica
+
+La seguretat informàtica serveix per protegir els nostres dispositius i la nostra informació.
+
+Alguns consells importants són:
+
+Utilitzar contrasenyes segures.
+Mantenir l'ordinador actualitzat.
+No descarregar fitxers de llocs desconeguts.
+No obrir enllaços sospitosos.
+Utilitzar eines de seguretat quan sigui necessari.
+Fer còpies de seguretat dels fitxers importants.
+
+També és important no compartir les nostres contrasenyes amb altres persones.
+
+
+
+
+7. Conclusions
+
+Els ordinadors són eines molt importants en la nostra vida quotidiana. Ens permeten treballar, estudiar, comunicar-nos i divertir-nos.
+
+Perquè un ordinador funcioni correctament, necessita diferents components, com la CPU, la RAM, el disc d'emmagatzematge i la placa base.
+
+També és important utilitzar els ordinadors de manera segura i protegir la nostra informació personal.
+
+8. Bibliografia
+Material de classe de SMX.
+Documentació educativa sobre informàtica.
+Documentació dels fabricants de components informàtics.
+Recursos educatius sobre tecnologia i seguretat informàtica.
