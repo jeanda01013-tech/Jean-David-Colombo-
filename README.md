@@ -34,16 +34,18 @@
 
 
 - Perfil de GitHub: creació de la meva presentació professional.
-
-<img src="./img/19.png" width="600"> 
-
+<div align="center">
+    <img src="./img/19.png" width="600"> 
+</div>
 -  Pràctiques de Markdown: creació i edició de documents.
-
-<img src="./img/23.png" width="600"> 
-
+<div align="center">
+    <img src="./img/23.png" width="600"> 
+</div>
 - Pràctiques de sistemes i xarxes: exercicis realitzats durant el curs.
 
-<img src="./img/xr.png" width="600">
+<div align="center">
+    <img src="./img/xr.png" width="600">
+</div>
 
 ## Què vull aprendre
 
