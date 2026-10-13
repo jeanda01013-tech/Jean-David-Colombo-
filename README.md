@@ -1,139 +1,66 @@
-Què és un ordinador i com funciona?
+![Principal](/img/img%20.png)
 
-![alt text](172b892b-3540-4f3e-a137-1a5ac42062cd.png)
 
-Nom: Jean
-Curs: SMX
-Data: 2 d'octubre de 2026
+# Benvingut al meu perfil de GitHub.
 
-Índex
-Què és un ordinador?
-Parts principals d'un ordinador
-Els perifèrics
-El sistema operatiu
-Com funciona un ordinador?
-Seguretat informàtica
-Conclusions
-Bibliografia
-1. Què és un ordinador?
+- Soc estudiant de Sistemes Microinformàtics i Xarxes (SMX) i estic aprenent sobre el món de la informàtica, els ordinadors i les xarxes.
 
-Un ordinador és una màquina electrònica que serveix per guardar, processar i mostrar informació.
+## Sobre mi
 
-Podem utilitzar un ordinador per:
+- Actualment estic estudiant SMX per aprendre més sobre la informàtica i adquirir coneixements que em puguin servir en el futur.
 
-Escriure documents.
-Navegar per Internet.
-Mirar vídeos.
-Jugar.
-Fer treballs.
-Guardar fotografies i documents.
-Comunicar-nos amb altres persones.
-2. Parts principals d'un ordinador
-Processador (CPU)
+- M'interessa conèixer com funcionen els ordinadors, els sistemes operatius i les xarxes informàtiques. També vull millorar les meves habilitats i aprendre a utilitzar noves eines tecnològiques.
 
-La CPU és una de les parts més importants de l'ordinador. S'encarrega de processar les instruccions i fer els càlculs.
+## Habilitats
 
-Es pot comparar amb el cervell de l'ordinador.
+ - Actualment estic aprenent a utilitzar les eines i tecnologies següents:
 
-Memòria RAM
+- Maquinari: muntatge i manteniment d'ordinadors.
 
-La RAM és una memòria que l'ordinador utilitza mentre està funcionant.
+- Sistemes operatius: instal·lació i configuració de sistemes.
 
-Per exemple, quan obrim un programa, aquest utilitza part de la memòria RAM.
+- Xarxes: configuració bàsica de xarxes informàtiques.
 
-Disc SSD o disc dur
+- Markdown: creació i edició de documents.
+ 
+- Git i GitHub: control de versions i gestió de repositoris.
 
-Serveix per guardar informació, com:
-
-Fotografies
-Documents
-Vídeos
-Programes
-Jocs
-
-Els discs SSD normalment són més ràpids que els discs durs tradicionals.
-
-Placa base
-
-La placa base és la peça principal on es connecten molts dels components de l'ordinador.
-
-Permet que les diferents parts de l'ordinador es comuniquin entre elles.
+- Visual Studio Code: edició d'arxius i codi.
 
 
 
-
-3. Els perifèrics
-
-Els perifèrics són dispositius que connectem a l'ordinador per introduir o obtenir informació.
-
-Perifèric	Funció
-Teclat	Escriure
-Ratolí	Moure el cursor i seleccionar
-Monitor	Mostrar informació
-Impressora	Imprimir documents
-Auriculars	Escoltar so
-Micròfon	Gravar o transmetre veu
-Càmera web	Fer videotrucades
+## Projectes
 
 
 
+- Perfil de GitHub: creació de la meva presentació professional.
 
-4. El sistema operatiu
+<img src="./img/19.png" width="600"> 
 
-El sistema operatiu és el programa principal que permet utilitzar l'ordinador.
+-  Pràctiques de Markdown: creació i edició de documents.
 
-Alguns sistemes operatius coneguts són:
+<img src="./img/23.png" width="600"> 
 
-Windows
-macOS
-Linux
-ChromeOS
+- Pràctiques de sistemes i xarxes: exercicis realitzats durant el curs.
 
-El sistema operatiu permet obrir programes, gestionar fitxers, connectar dispositius i controlar diferents parts de l'ordinador.
+<img src="./img/xr.png" width="600">
 
+## Què vull aprendre
 
+- Els meus objectius són continuar aprenent sobre informàtica, millorar els meus coneixements sobre sistemes operatius i xarxes, aprendre a utilitzar noves eines i preparar-me per treballar en el sector informàtic.
 
+- També vull aprendre a treballar de manera ordenada, organitzada i responsable.
 
-5. Com funciona un ordinador?
+## Contacte
 
-De manera senzilla, podem explicar el funcionament d'un ordinador en tres passos:
+- Pots trobar els meus projectes i pràctiques al meu perfil de GitHub.
 
-Entrada → Processament → Sortida
-
-Per exemple, quan escrivim una paraula:
-
-Teclat → CPU → Pantalla
-
-Primer escrivim amb el teclat. Després, l'ordinador processa la informació i finalment mostra la paraula a la pantalla.
-
-6. Seguretat informàtica
-
-La seguretat informàtica serveix per protegir els nostres dispositius i la nostra informació.
-
-Alguns consells importants són:
-
-Utilitzar contrasenyes segures.
-Mantenir l'ordinador actualitzat.
-No descarregar fitxers de llocs desconeguts.
-No obrir enllaços sospitosos.
-Utilitzar eines de seguretat quan sigui necessari.
-Fer còpies de seguretat dels fitxers importants.
-
-També és important no compartir les nostres contrasenyes amb altres persones.
-
-
-
-
-7. Conclusions
-
-Els ordinadors són eines molt importants en la nostra vida quotidiana. Ens permeten treballar, estudiar, comunicar-nos i divertir-nos.
-
-Perquè un ordinador funcioni correctament, necessita diferents components, com la CPU, la RAM, el disc d'emmagatzematge i la placa base.
-
-També és important utilitzar els ordinadors de manera segura i protegir la nostra informació personal.
-
-8. Bibliografia
-Material de classe de SMX.
-Documentació educativa sobre informàtica.
-Documentació dels fabricants de components informàtics.
-Recursos educatius sobre tecnologia i seguretat informàtica.
+ <p align="center">
+    <a href=https://github.com/jeanda01013-tech target="_blank">
+        <img loading="lazy" src="./img/ic1.png"height="60">
+ </a> 
+    <a href="https://www.linkedin.com/feed/="_blank">
+        <img loading="lazy" src="./img/ic3.png" height="60">    
+</a> 
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ajeanda01013@gmail.com" target="_blank">
+    <img src="./img/ic2.png" alt="Contactar por Gmail" height="60">
